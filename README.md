@@ -5,7 +5,7 @@
   <p>Katherine Wadhwani</p>
 
 # Purpose: 
-<p>Atlas News is a scalable news app that showcases recent news articles, keeping users informed.</p>
+<p>Atlas News is a scalable news app that showcases a static selection of recent news articles, keeping users informed.</p>
 
 # Usage: 
 <p>To run Atlas News on your own device, run <code>git clone https://github.com/KatherineWadhwani/Atlas-News.git</code> to clone the repository and <code>npm install</code> to install dependencies. Now, you can run <code>npm start</code> and the app will load in development mode. Open <code>http://localhost:3000</code> to view it in your browser. </p> 
