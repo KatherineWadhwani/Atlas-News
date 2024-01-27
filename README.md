@@ -12,10 +12,10 @@
 
 
 # Features:
-    - Users can filter articles by category (e.g. US, World, Business, Entertainment)
-    - Users can search the app for specific articles
-    - Users can toggle article icon to read summary of article
-    - Users can click on link taking them to the full article
+   <li>Users can filter articles by category (e.g. US, World, Business, Entertainment)
+   <li>Users can search the app for specific articles
+   <li>Users can toggle article icon to read summary of article
+   <li>Users can click on link taking them to the full article
 
 # Implementation/Stack:
     <p> Atlas News is a React Web App with a Firebase Backend that uses Firestore. </p>
