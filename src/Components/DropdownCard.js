@@ -57,7 +57,7 @@ const DropdownCard = ({ img, title, URL, summary, source, date }) => {
         <div className="summary">
           {summary}
         </div>
-        <a href={URL.props.children} className="button" >Click to View Article</a>
+        <a href={URL.props.children} className="button" target="_blank">Click to View Article</a>
 
       </div>}
     </div>
