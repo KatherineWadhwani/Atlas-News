@@ -18,7 +18,7 @@
    <li>Users can click on link taking them to the full article
 
 # Implementation/Stack:
-    <p> Atlas News is a React Web App with a Firebase Backend that uses Firestore. </p> 
+   <p>Atlas News is a React Web App with a Firebase Backend that uses Firestore.</p>
 
 # Acknowledgments:
 <p> While no individual directly contributed to Atlas News other than the author, the following online resources proved helpful:
