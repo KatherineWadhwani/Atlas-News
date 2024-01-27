@@ -8,7 +8,7 @@
 <p>Atlas News is a scalable news app that showcases recent news articles, keeping users informed.</p>
 
 # Usage: 
-<p>To run Atlas News on your own device, run `git clone https://github.com/KatherineWadhwani/Atlas-News.git` to clone the repository and `npm install` to install dependencies. Now, you can run `npm start` and the app will load in development mode. Open `http://localhost:3000` to view it in your browser. </p> 
+<p>To run Atlas News on your own device, run <code>git clone https://github.com/KatherineWadhwani/Atlas-News.git</code> to clone the repository and <code>npm install</code> to install dependencies. Now, you can run <code>npm start</code> and the app will load in development mode. Open <code>http://localhost:3000</code> to view it in your browser. </p> 
 
 
 # Features:
