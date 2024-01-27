@@ -1,4 +1,4 @@
-/* Purpose: Displays articles as a dropdown card which includes the article's title, image, source, and publication date. When clicked on, card toggles
+/* Purpose: Displays article as a dropdown card which includes the article's title, image, source, and publication date. When clicked on, card toggles
 open, revealing a sumamry and link to the full article. Clidking on the card again will toggle it closed. */
 
 import React, { useState } from "react";
