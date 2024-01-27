@@ -22,5 +22,5 @@
 
 # Acknowledgments:
 <p> While no individual directly contributed to Atlas News other than the author, the following online resources proved helpful:
-        - The Atlas logo was borrowed from the Atlas website at https://www.atlasfin.com/ .
-        - Snigda Kansal, a former colleague, taught me how to implement the Dropdown Cards during my previous internship at Kommu. I have borrowed from her design (which may, in turn, have been borrowed from another source). </p>
+        <li>The Atlas logo was borrowed from the Atlas website at https://www.atlasfin.com/ .
+        <li>Snigda Kansal, a former colleague, taught me how to implement the Dropdown Cards during my previous internship at Kommu. I have borrowed from her design (which may, in turn, have been borrowed from another source). </p>
