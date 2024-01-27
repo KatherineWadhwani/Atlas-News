@@ -1,4 +1,4 @@
-/* Purpose: Testing. React project boilerplate */
+/* Purpose: Testing. React boilerplate */
 
 import { render, screen } from '@testing-library/react';
 import App from './Pages/App';
