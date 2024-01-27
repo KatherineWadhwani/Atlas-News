@@ -2,7 +2,7 @@
    <p>Atlas News</p>
 
 # Author:
-    <p>Atlas News</p>
+  <p>Katherine Wadhwani</p>
 
 # Purpose: 
 <p>Atlas News is a scalable news app that showcases recent news articles, keeping users informed.</p>
