@@ -1,4 +1,4 @@
-/* Purpose: News App that displays recent articles. Features include filter articles by category and searching articles by title. */
+/* Purpose: News App that displays recent articles. Features include filtering articles by category and searching articles by title. */
 
 import logo from '../logo.png';
 import '../Styles/App.css';
