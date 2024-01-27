@@ -1,0 +1,159 @@
+
+/* Purpose: Styles App.js */
+
+@font-face {
+  font-family: 'GilroyExtraBold';
+  src: local('Fonts'), url(./Fonts/gilroy/Gilroy-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: 'GilroyLight';
+  src: local('Fonts'), url(./Fonts/gilroy/Gilroy-Light.ttf);
+}
+
+.App {
+  text-align: center;
+  background-image: linear-gradient(rgb(226, 228, 230), rgb(128, 157, 169));
+  height: fit-content;
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  min-width: 1000px;
+  padding-bottom: 100px;
+  overflow-x: hidden;
+}
+
+.App-logo {
+  flex-shrink: 0;
+  display: flex;
+  height: 80px;
+  width: 200px;
+}
+
+
+.App-header {
+  background-color: white;
+  height: 100px;
+  display: flex;
+  flex-direction: horizontal;
+  font-size: 35px;
+  width: calc(800px + 20vw);
+  color: darkblue;
+  margin-top: 50px;
+  font-family: GilroyExtraBold;
+  font-weight: 600;
+  border-radius: 100px;
+  float: center;
+  z-index: 1;
+  align-items: center;
+  position: fixed;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+
+  justify-content: center;
+
+}
+
+.CatchPhrase {
+  flex-basis: fit-content;
+}
+
+.Categories {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 10px;
+  justify-content: center;
+}
+
+.Search {
+  border-radius: 1em;
+  border: .15em solid white;
+  border-color: darkblue;
+  border-width: 2px;
+  margin-top: 200px;
+  width: 500px;
+  font-family: GilroyExtraBold;
+  height: 30px;
+  font-size: 15px;
+  text-indent: 1em;
+}
+
+.Search:hover {
+  box-shadow: 0 0 1em .3em darkblue;
+}
+
+.align-items-center {
+  font-family: GilroyExtraBold;
+  padding: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-self: center;
+}
+
+
+.Articles {
+  margin-top: 100px;
+  position: relative;
+  font-family: GilroyExtraBold;
+  font-weight: 100;
+  display: relative;
+  overflow-y: 'scroll',
+}
+
+form {
+  position: relative;
+}
+
+.CancelSearch {
+  position: absolute;
+  color: darkblue;
+  font-size: 20px;
+  top: 214px;
+  right: 10px;
+  /* Adjust the right value to position the icon as desired */
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .App {
+    min-width: 100vw;
+    overflow-x: hidden;
+  }
+
+  .container {
+    width: 100%;
+    /* Take full width on smaller screens */
+    padding: 10px;
+    /* Adjust padding for smaller screens */
+  }
+
+  .App-logo {
+    height: 40px;
+    width: 100px;
+  }
+
+  .Search {
+    width: 90vw;
+  }
+
+  .App-header {
+    font-size: 19px;
+    width: 90vw;
+    justify-content: center;
+  }
+
+  .Categories {
+    width: 90vw;
+  }
+
+  .Articles {
+    margin-right: 10px;
+  }
+
+}
