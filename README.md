@@ -13,7 +13,7 @@
 
 # Features:
    <li>Users can filter articles by category (e.g. US, World, Business, Entertainment).
-   <li>Users can search the app for specific articles.
+   <li>Users can search for specific articles.
    <li>Users can toggle article icon to read summary of article.
    <li>Users can click on link taking them to the full article.
 
