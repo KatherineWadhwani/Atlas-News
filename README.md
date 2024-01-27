@@ -1,14 +1,14 @@
 # Project Title:
-    Atlas News
+   <p>Atlas News</p>
 
 # Author:
-    Katherine Wadhwani
+    <p>Atlas News</p>
 
 # Purpose: 
-    <p>Atlas News is a scalable news app that showcases recent news articles, keeping users informed.</p>
+<p>Atlas News is a scalable news app that showcases recent news articles, keeping users informed.</p>
 
 # Usage: 
-   <p>To run Atlas News on your own device, run `git clone https://github.com/KatherineWadhwani/Atlas-News.git` to clone the repository and `npm install` to install dependencies. Now, you can run `npm start` and the app will load in development mode. Open `http://localhost:3000` to view it in your browser. </p> 
+<p>To run Atlas News on your own device, run `git clone https://github.com/KatherineWadhwani/Atlas-News.git` to clone the repository and `npm install` to install dependencies. Now, you can run `npm start` and the app will load in development mode. Open `http://localhost:3000` to view it in your browser. </p> 
 
 
 # Features:
