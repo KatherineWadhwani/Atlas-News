@@ -12,7 +12,7 @@ import { MdOutlineCancel } from "react-icons/md";
 
 let articleObjects = [];
 
-// Creates class to hold article information
+// Creates class to hold article information.
 class ArticleObject {
   constructor(
     URL,
