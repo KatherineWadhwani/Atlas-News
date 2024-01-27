@@ -224,7 +224,7 @@ function App() {
             img={<img
               className="homephoto"
               src={promise.IMG}
-              alt="img"
+              alt="article img"
             />}
             title={
               <p id="title">{promise.title}</p>
